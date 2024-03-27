@@ -1,7 +1,6 @@
-# My Dataset
+# Welcome to my data portal!
 
-Built with PortalJS 
+List of available datasets:
 
-## Table 
-
-<Table url="data.csv" />
+- [Studants](./my-awesome-dataset)
+- [Studants Chart](./my-incredible-dataset)

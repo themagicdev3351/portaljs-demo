@@ -58,7 +58,7 @@ export const getStaticProps = async (context) => {
 export default function DatasetPage({ mdxSource, frontMatter }) {
   frontMatter = JSON.parse(frontMatter);
   return (
-    <div className="prose dark:prose-invert mx-auto py-8">
+    <div className="prose dark:prose-invert mx-auto py-8" style={{ maxWidth: '1000px' }}>
       <header>
         <div className="mb-6">
           <>
